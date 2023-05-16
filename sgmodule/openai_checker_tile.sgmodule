@@ -5,7 +5,7 @@ author: yaomin.wang
 version: 1.0.0
 
 [Panel]
-OpenAI-Checker-Tile = script-name=OpenAI-Checker-Tile, title=𝗢𝗽𝗲𝗻𝗔𝗜 𝗖𝗵𝗲𝗰𝗸𝗲𝗿, content=Loading..., style=info, update-interval=7200, icon-uri=https://raw.githubusercontent.com/Yubyf/OpenAI-Checker-Tile/master/res/logo.png, icon-color=#4AA081
+OpenAI-Checker-Tile = script-name=OpenAI-Checker-Tile, title=𝗢𝗽𝗲𝗻𝗔𝗜 𝗖𝗵𝗲𝗰𝗸𝗲𝗿, content=Loading..., style=info, update-interval=7200, icon-uri=https://raw.githubusercontent.com/wangyaominde/OpenAI-Checker-Tile/master/res/logo.png, icon-color=#4AA081
 
 [Script]
-OpenAI-Checker-Tile = type=http-request, pattern=https://raw.githubusercontent.com/Yubyf/OpenAI-Checker-Tile/master/script/openai_checker_tile.js, update-interval=86400, script-path=https://raw.githubusercontent.com/Yubyf/OpenAI-Checker-Tile/master/script/openai_checker_tile.js
+OpenAI-Checker-Tile = type=http-request, pattern=https://raw.githubusercontent.com/wangyaominde/OpenAI-Checker-Tile/master/script/openai_checker_tile.js, update-interval=86400, script-path=https://raw.githubusercontent.com/Yubyf/OpenAI-Checker-Tile/master/script/openai_checker_tile.js
